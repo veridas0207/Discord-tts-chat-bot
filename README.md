@@ -1,5 +1,6 @@
 # Discord-tts-chat-bot
-** mainly developed with ChatGPT **
+
+**mainly developed with ChatGPT**
 
 **傳送文字訊息時，機器人會自動朗讀內容（若在語音頻道中）**
 
