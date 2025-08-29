@@ -1,0 +1,5 @@
+discord.py
+edge-tts
+pyttsx3
+APScheduler
+pynacl
